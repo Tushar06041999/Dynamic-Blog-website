@@ -1,7 +1,7 @@
+import Header from "../../components/header/Header";
+import Posts from "../../components/Posts/Posts";
+import Sidebar from "../../components/sidebar/Sidebar";
 import "./home.css";
-import Header from "../../Header/Header";
-import Posts from "../../Posts/Posts";
-import Sidebar from "../../sidebar/Sidebar";
 
 
 

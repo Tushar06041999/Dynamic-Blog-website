@@ -1,14 +1,17 @@
 
-import Topbar from "./TopBar/Topbar";
+import Home from "./pages/home/Home";
+import Topbar from "./components/TopBar/Topbar";
+import Single from "./pages/pages/Single.jsx";
+import Write from "./pages/write/Write";
 
- import Home from "./pages/home/Home";
+
 
 function App() {
   return (
 
     <>
     <Topbar></Topbar>
-    <Home/>
+     <Write/>
    
     
     
